@@ -1,0 +1,77 @@
+/* CSS Document */
+
+.tabs1 {
+	background-color:#EAE1D7;  			/* Background color of entire tab box  	*/
+	color:#000;					/* Default Font Color				*/
+	padding:20px 10px 15px 10px;	  	/* Padding around entire tab box  		*/
+	width:530px; 					/* width and height of entire tab box 	*/
+	height:475px;					/* height of entire tab box 			*/
+	border:2px solid #ddd;			/* Border around entire tab box  		*/
+	margin:20px 0;					/* Margin around entire tab box   		*/
+	}
+	
+.tabs1 li { list-style:none; float:left; }
+
+.tabs1 ul a {
+	display:block;
+	padding:8px 24px;				/* Padding around individual tabs  */
+	text-decoration:none!important;
+	margin:1px;
+	margin-left:0px;
+	font-size:12px;				/* Font of tab titles  */
+	font-weight:bold;				/* Font weight of tab titles */
+	font-family:Arial;				/* Font of tab titles   */
+	color:#FFF;					/* Color of tab titles  */
+	background-color:#B7A375;		/* Background color of unselected tabs  */
+	}
+	 
+.tabs1 ul a:hover {
+	color:#FFF;					/* Color of tab titles on hover  */
+	background-color:#CDBDA0;		/* Background Color of tab titles on hover  */
+	}
+	  
+.tabs1 ul a.selected {
+	margin-bottom:0;
+	color:#000;					/* Color of tab selected tab title  */
+	background-color:#fff;			/* Background Color of tab selected tab title  */
+	border-bottom:1px #fff solid;    	/* Border on the bottom of the selected tab title  */
+	cursor:default;
+	}
+  
+.tabs1 div {
+	padding:15px 15px 15px 15px;		/* Padding around the content boxes */
+	margin-top:-15px;
+	clear:left;
+	background-color:#fff;			/* Background color behind content */
+	font-size:10pt;				/* Default content box font size  */
+	font-family:Arial;				/* Default font for content box  */
+	}
+
+.tabs1 div a 	{ color:#000; 
+			  font-weight:bold; }
+
+
+/* Character Styles for content boxes  */
+
+.tabs1 div h2 	{ font-family:Arial, Helvetica, sans-serif;  
+				font-size:16px; font-weight:bold; 
+				margin:12px 0px; padding:6px 0px;
+				border-bottom:1px #ccc solid;	}
+
+.tabs1 div h3 	{ font-family:Arial, Helvetica, sans-serif; 
+				font-size:14px; font-weight:bold; 
+				margin:8px 0px;	}
+
+.tabs1 div p 	{ font-family:Arial, Helvetica, sans-serif; 
+				font-size:12px; font-weight:normal; 
+				margin:8px 0px;	}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+<input type='image' name='sfm_confirm' id='RentalContractVer2_sfm_confirm_img' src='images/RentalContractVer2-sfm_confirm-0.png' alt='submit'>

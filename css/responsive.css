@@ -1,0 +1,138 @@
+@media screen and (max-width: 1280px) {
+    * {
+        box-sizing: border-box;
+    }
+
+    #banner,
+    #heading,
+    #slider,
+    #sliderContent,
+    #subbanner,
+    #content,
+    #footer,
+    #bottom {
+        width: 100%;
+    }
+
+    #nav {
+        height: auto;
+    }
+
+    #topnav ul {
+        margin: 10px;
+    }
+
+    #topnav ul li {
+        display: inline-block;
+        float: none;
+        position: relative;
+    }
+
+
+    .sliderImage span {
+        left: auto;
+        right: 50px;
+    }
+
+
+
+    #leftside_indx {
+        width: auto;
+        margin: 0;
+    }
+
+    #rightside_indx {
+        width: auto;
+        margin: 0;
+    }
+
+    #content {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #content > #leftside_indx {
+        flex: 0 0 70%;
+        max-width: 70%;
+        padding: 0 20px;
+    }
+
+    #content > #rightside_indx {
+        flex: 0 0 30%;
+        max-width: 30%;
+        padding: 0 20px;
+    }
+
+    #subbanner-contact-button {
+        margin: 0;
+        float: none;
+    }
+
+    #footer {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #footer-left {
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding: 0 20px;
+        margin: 0;
+    }
+
+    #footer-right {
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding: 0 20px;
+        margin: 0;
+    }
+
+}
+
+@media screen and (max-width: 800px) {
+    #logo {
+        float: none;
+        text-align: center;
+    }
+
+    #wrapper img {
+        margin: 0 auto;
+    }
+
+    #slider {
+        background-color: #000;
+        height: auto;
+    }
+
+    #sliderContent {
+        position: relative;
+        height: auto;
+        background: #000;
+    }
+    /*.sliderImage img {*/
+    /*    height: 350px;*/
+    /*    max-width: none;*/
+    /*}*/
+    #content > #leftside_indx,
+    #content > #rightside_indx {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 0 20px;
+    }
+
+    .sliderImage span {
+        position: relative;
+        width: 100%;
+        /*display: block;*/
+        padding: 30px;
+        height: auto;
+        left: 0;
+        right: 0;
+        display: none !important;
+    }
+
+    #footer-left, #footer-right {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}

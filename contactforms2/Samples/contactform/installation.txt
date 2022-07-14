@@ -1,0 +1,5 @@
+Installation Guide: http://www.kontaktformular.com/en/installation-script-php-contact-form.html
+
+Licensingterms: http://www.kontaktformular.com/en/licensingterms-script-php-contact-form.html
+
+A privat use is free of charge. The license fee only needs to be payed at commercial webpages and includs the infinite use. (40 $ / 40 €) If you are going to take a higher number of licenses we are happy to grant you a discount. If you are interested, please get in touch with us. You will receive an invoice with your purchase. If you want to remove copyright though you have to buy a non-copyright licence (30 $ / 30 €).

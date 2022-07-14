@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html >
+   <head >
+      <title ></title>
+      <meta content="text/html; charset=utf-8" http-equiv='Content-Type'>
+      <style type='text/css'>
+body
+{
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+}
+
+.sfm_table_container
+{
+	margin-top:20px;
+	margin-bottom:10px;
+}
+
+.sfm_table_container td
+{
+    font-size : 10pt;
+	text-align: left;
+	border-bottom:1px solid #DEDEDE;
+	padding:5px;
+}
+
+.sfm_table_container td.FieldName
+{
+	font-weight:bold;
+	vertical-align: top;
+}
+
+.sfm_table_container td.FieldValue 
+{
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+}
+
+.sfm_table_container td.ExtraInfoName 
+{
+	font-family : Verdana, Helvetica, sans-serif;
+	font-size : 8pt;
+	border-bottom:0px;
+	font-weight:bold;
+}
+
+.sfm_table_container td.ExtraInfoValue 
+{
+	font-family : Verdana, Helvetica, sans-serif;
+	font-size : 8pt;
+	border-bottom:0px;
+}
+
+
+fieldset {
+	display:block; 
+	border-color: #ddddFF;
+        border-width: 1px 0 0 0;
+        border-style: solid none none none;
+	padding:5px; 
+	font-family:verdana, sans-serif; 
+	margin-bottom:0.5em; 
+}
+      </style>
+      <meta name='GENERATOR' content='MSHTML 11.00.10570.1001'>
+   </head>
+   <body style='BACKGROUND-COLOR: transparent'>
+The following data was submitted in 
+the form named RentalContractVer2 by a visitor 
+      <div class='sfm_table_container'>
+         <table cellSpacing='0' cellPadding='5'>
+            <tbody >
+               <tr >
+                  <td class='FieldName'>Name</td>
+                  <td class='FieldValue'>%Name%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Address</td>
+                  <td class='FieldValue'>%Address%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Phone</td>
+                  <td class='FieldValue'>%Phone%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Email</td>
+                  <td class='FieldValue'>%Email%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>DatePicker</td>
+                  <td class='FieldValue'>%DatePicker%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Event</td>
+                  <td class='FieldValue'>%Event%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>StartTime</td>
+                  <td class='FieldValue'>%StartTime%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Duration</td>
+                  <td class='FieldValue'>%Duration%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Memb_Card_No</td>
+                  <td class='FieldValue'>%Memb_Card_No%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>DropdownList</td>
+                  <td class='FieldValue'>%DropdownList%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>No_Guests</td>
+                  <td class='FieldValue'>%No_Guests%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Lounge_hrs</td>
+                  <td class='FieldValue'>%Lounge_hrs%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CheckBoxSingle</td>
+                  <td class='FieldValue'>%CheckBoxSingle%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CheckBoxSingle1</td>
+                  <td class='FieldValue'>%CheckBoxSingle1%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Place</td>
+                  <td class='FieldValue'>%Place%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Cloths</td>
+                  <td class='FieldValue'>%Cloths%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Naps</td>
+                  <td class='FieldValue'>%Naps%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>SubTotal</td>
+                  <td class='FieldValue'>%SubTotal%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>GST</td>
+                  <td class='FieldValue'>%GST%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Total</td>
+                  <td class='FieldValue'>%Total%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>DamageDep</td>
+                  <td class='FieldValue'>%DamageDep%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>TotalRentChg</td>
+                  <td class='FieldValue'>%TotalRentChg%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Lounge</td>
+                  <td class='FieldValue'>%Lounge%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>StoveOven</td>
+                  <td class='FieldValue'>%StoveOven%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>KeepWarm</td>
+                  <td class='FieldValue'>%KeepWarm%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>PlaceSetting</td>
+                  <td class='FieldValue'>%PlaceSetting%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>TableCloths</td>
+                  <td class='FieldValue'>%TableCloths%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Napkins</td>
+                  <td class='FieldValue'>%Napkins%</td>
+               </tr>
+            </tbody>
+         </table>
+         <h4 >More Info:</h4>
+         <table cellSpacing='0' cellPadding='5'>
+            <tbody >
+               <tr >
+                  <td class='FieldName'>FormSubmissionTime</td>
+                  <td class='FieldValue'>%_sfm_form_submision_time_%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>VisitorsIP</td>
+                  <td class='FieldValue'>%_sfm_visitor_ip_%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>UniqueID</td>
+                  <td class='FieldValue'>%_sfm_unique_id_%</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+      <p ></p>
+   </body>
+</html>

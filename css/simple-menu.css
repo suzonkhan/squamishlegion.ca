@@ -1,0 +1,44 @@
+/* CSS Document */
+
+/* @group structure */
+
+#head 		{ background-color:#e1ecf6; 
+				height:100px; padding-top:0px; }
+				 
+.wrap 		{ width: 900px; margin: 0 auto; }
+
+
+/* @group core nav menu */
+
+#nav 		{ margin:0; padding:0; 
+				list-style:none; 
+				height:20px;   /* This is the height of the nav */
+				background-color:#000;  /* This is the background color of the menu */
+				}
+ 
+#nav li 		{ float:left; display:block; 
+				background-color:transparent; 
+				position: relative; z-index:999; margin:0 1px; 	}
+ 
+#nav li a 	{ display: block; zoom: 1; padding: 0; 
+				font-weight:bold; line-height:30px; text-decoration:none;  				
+				padding: 0px  5px 0px   5px; /* This is the spacing between menu items */
+				}
+
+#nav li a:hover, #nav li a.hov { background-color:#000;  /*color:#576482;*/ }
+
+
+/* @group subnav */
+
+#nav ul 			{ position:absolute; left:1px; display:none; 
+					margin:0; padding:0; 
+					list-style:none; 
+					padding-bottom:3px; 
+					}	
+
+#nav ul li 		{ width:150px; float:left; text-align:left; 
+					background-color:#000;  /* This is the background color of the sub menu */
+					}
+
+#nav ul li:hover 	{ 	}
+

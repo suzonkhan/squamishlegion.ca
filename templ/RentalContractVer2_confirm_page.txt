@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html >
+   <head >
+      <title >Confirm form submission</title>
+      <meta content="text/html; charset=utf-8" http-equiv='Content-Type'>
+      <meta name='viewport' content='width=device-width, initial-scale=1'>
+      <style >
+body 
+{
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+}
+
+div.sfm_table_container
+{
+	margin-top:20px;
+	margin-bottom:10px;
+}
+
+.sfm_table_container table
+{
+	border-width:0px;
+}
+
+.sfm_table_container table td
+{
+    font-size : 10pt;
+	text-align: left;
+	border-bottom:1px solid #DEDEDE;
+	padding:5px;
+}
+
+.sfm_table_container table td.FieldName
+{
+	font-weight:bold;
+	vertical-align: top;
+}
+
+.sfm_table_container table td.FieldValue 
+{
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+}
+
+.ButtonBox
+{
+	white-space:nowrap;
+    margin-top:15px;
+}
+
+
+form.sfm_confirm
+{
+    display:inline;
+}
+@media print 
+{
+	.sfm_print_button
+	{
+		display:none;
+	}
+	form.sfm_confirm
+	{
+		display:none;
+	}
+}
+      </style>
+      <meta name='GENERATOR' content='MSHTML 11.00.10570.1001'>
+   </head>
+   <body onload='window.parent.scroll(0,0);' style='BACKGROUND-COLOR: transparent'>
+      <h2 >Please Confirm...</h2>
+      <div >
+Press the 'Confirmed' button to proceed with the submission.         <br >
+If you want 
+to make changes, press the 'Edit' button.
+      </div>
+      <div class='sfm_table_container'>
+         <table cellSpacing='0' cellPadding='5'>
+            <tbody >
+               <tr >
+                  <td class='FieldName'>Textbox</td>
+                  <td class='FieldValue'>%Textbox%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Textbox1</td>
+                  <td class='FieldValue'>%Textbox1%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Phone</td>
+                  <td class='FieldValue'>%Phone%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Email</td>
+                  <td class='FieldValue'>%Email%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>DatePicker</td>
+                  <td class='FieldValue'>%DatePicker%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Textbox2</td>
+                  <td class='FieldValue'>%Textbox2%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Textbox3</td>
+                  <td class='FieldValue'>%Textbox3%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>Textbox4</td>
+                  <td class='FieldValue'>%Textbox4%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>NumberField</td>
+                  <td class='FieldValue'>%NumberField%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>DropdownList</td>
+                  <td class='FieldValue'>%DropdownList%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>NumberField1</td>
+                  <td class='FieldValue'>%NumberField1%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>NumberField2</td>
+                  <td class='FieldValue'>%NumberField2%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>NumberField3</td>
+                  <td class='FieldValue'>%NumberField3%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CalculatedField</td>
+                  <td class='FieldValue'>%CalculatedField%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CheckBoxSingle</td>
+                  <td class='FieldValue'>%CheckBoxSingle%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CalculatedField1</td>
+                  <td class='FieldValue'>%CalculatedField1%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CheckBoxSingle1</td>
+                  <td class='FieldValue'>%CheckBoxSingle1%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CalculatedField2</td>
+                  <td class='FieldValue'>%CalculatedField2%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>NumberField4</td>
+                  <td class='FieldValue'>%NumberField4%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CalculatedField3</td>
+                  <td class='FieldValue'>%CalculatedField3%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>NumberField5</td>
+                  <td class='FieldValue'>%NumberField5%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CalculatedField4</td>
+                  <td class='FieldValue'>%CalculatedField4%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>NumberField6</td>
+                  <td class='FieldValue'>%NumberField6%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CalculatedField5</td>
+                  <td class='FieldValue'>%CalculatedField5%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CalculatedField6</td>
+                  <td class='FieldValue'>%CalculatedField6%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CalculatedField7</td>
+                  <td class='FieldValue'>%CalculatedField7%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CalculatedField8</td>
+                  <td class='FieldValue'>%CalculatedField8%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CalculatedField9</td>
+                  <td class='FieldValue'>%CalculatedField9%</td>
+               </tr>
+               <tr >
+                  <td class='FieldName'>CalculatedField10</td>
+                  <td class='FieldValue'>%CalculatedField10%</td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+      <p ></p>
+      <div class='ButtonBox'>
+%_sfm_print_button_% %_sfm_edit_button_% 
+%_sfm_confirm_button_%
+      </div>
+
+<!--{ExtraCodePlace}-->
+   </body>
+</html>

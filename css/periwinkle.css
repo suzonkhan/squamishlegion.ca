@@ -1,0 +1,243 @@
+/* Timothy Framework - www.timothyframework.com */
+/* This work is licensed under the MIT License - http://www.opensource.org/licenses/mit-license.php */
+
+
+/* Color and Font Legend 
+
+font-family: 'Francois One', sans-serif;
+font-family: 'Kotta One', serif;  (Italics)
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Linden Hill', serif;
+
+Color: #6F6FFF
+
+*/
+
+
+/* Headings */
+
+h1, h2, h3, h4, h5, h6 { color: #000; }
+
+
+/* Text Elements */
+
+a           	{   }
+a:link		{ color: #00f;  }
+a:visited		{ color: #0f0;  }
+a:active		{ color: #000;  }
+a:focus		{ color: #666;  }
+a:hover     	{ color: #f00;  }
+
+
+
+/* Tables */
+
+table       	{ 	}
+
+tr			{	}
+.odd			{ background-color:#eee; }
+.even		{ background-color:#fff; }
+
+th          	{ 	}
+thead, th    	{ background: #ccc; }
+
+tbody		{    }
+
+th,td,caption 	{ 	}
+caption 		{ 	}
+
+tfoot       	{	}
+.tfooter		{ background-color:#ccc;  }
+
+caption     	{ background: #efefef; }
+
+
+
+/* Containers */
+
+#top-bg			{ background-color:#414141; border-top:3px #6F6FFF solid; }
+					
+#topsubnav a:link		{ color:#999;	}
+#topsubnav a:visited	{ color:#999;	}
+#topsubnav a:active		{ color:#999;	}
+#topsubnav a:hover		{ color:#6F6FFF;	}
+#topsubnav a:focus		{ color:#6F6FFF;	}
+
+#heading-bg		{ clear:both; background-color:#000; width:100%; height:370px;
+					border-top:1px #666 dotted; border-bottom:22px #6F6FFF solid;	}
+
+#name1			{ color:#fff; 	}
+#name2			{ color:#fff;	}
+
+#topnav 			{ 	}
+
+#topnav ul		{ border-top:1px #555 dotted; border-bottom:1px #555 dotted; }
+
+#topnav ul li		{ color:#fff; 	}
+#topnav ul li a	{ 	}
+
+#topnav a:link		{ color:#fff;	}
+#topnav a:visited	{ color:#fff;	}
+#topnav a:active	{ color:#fff;	}
+#topnav a:hover	{ color:#6F6FFF; }
+#topnav a:focus	{ color:#6F6FFF; }
+
+#subbanner 		{ background-color:#6F6FFF;  }
+					
+#subbanner-bg		{ 	}
+
+#subbanner h3		{ color:#fff;	}
+#subbanner h4		{ color:#fff; }
+
+#subbanner a			{	}
+#subbanner a:link		{ color:#000;	}
+#subbanner a:visited	{ color:#000;	}
+#subbanner a:active		{ color:#000;	}
+#subbanner a:focus		{ color:#B86365;	}
+#subbanner a:hover		{ color:#B86365; 	}
+
+#subbanner-contact-button	{ 	}
+
+#content			{ 	}
+#content-bg		{ 	}
+
+#leftside, #rightside		{ 	}
+
+#leftside h1, #rightside h1 	{ 	}
+#leftside h2, #rightside h2 	{ 	}
+#leftside h3, #rightside h3 	{ 	}
+#leftside p, #rightside p 	{ 	}
+
+#leftside 		{ 	}
+#leftside h1		{ 	}
+#leftside h2		{ 	}
+#leftside h3		{ 	}
+#leftside p		{ 	}
+#leftside img		{ 	}
+#leftside li		{ 	}
+#leftside a		{ 	}
+
+#leftside a:link	{ color:#000; 	}
+#leftside a:visited	{ color:#000;	}
+#leftside a:active	{ color:#000;	}
+#leftside a:hover	{ color:#6F6FFF;	}
+#leftside a:focus	{ color:#6F6FFF;	}
+
+#rightside 		{ 	}
+#rightside h1		{ 	}
+#rightside h2		{ 	}
+#rightside h3		{ 	}
+#rightside p		{ 	}
+#rightside img		{ 	}
+#rightside li		{ 	}
+#rightside a		{ 	}
+
+#rightside a:link		{ color:#000;	}
+#rightside a:visited	{ color:#000;	}
+#rightside a:active		{ color:#000;	}
+#rightside a:hover		{ color:#6F6FFF; 	}
+#rightside a:focus		{ color:#6F6FFF;	}
+
+#content 			{    }
+#content-bg		{ 	}
+
+#content h2		{ 	}
+#content h3		{ 	}
+#content p		{ 	}
+#content img		{ 	}
+#content li		{ 	}
+#content a		{	}
+
+#content a:link	{ color:#000;	}
+#content a:visited	{ color:#000;	}
+#content a:active	{ color:#000;	}
+#content a:hover	{ color:#6F6FFF;	}
+#content a:focus	{ color:#6F6FFF;	}
+
+#gallery			{	}
+
+#team			{	}
+
+#faq				{	}
+
+#footer 			{    }
+#footer-bg		{ background-color:#333;
+					border-top:2px #6F6FFF solid;	}
+#footer-left		{ 	}
+#footer-right		{ 	}
+
+#footer-left a			{ 	}
+#footer-left a:link		{ color:#fff;	}
+#footer-left a:visited	{ color:#fff;	}
+#footer-left a:active	{ color:#fff;	}
+#footer-left a:hover	{ color:#6F6FFF;	}
+#footer-left a:focus	{ color:#6F6FFF;	}
+
+#footer-right a		{ 	}
+#footer-right a:link	{ color:#fff;	}
+#footer-right a:visited	{ color:#fff;	}
+#footer-right a:active	{ color:#fff;	}
+#footer-right a:hover	{ color:#6F6FFF;	}
+#footer-right a:focus	{ color:#6F6FFF;	}
+
+#footer h2		{ color:#BBBBFF; 	}
+#footer h3		{ color:#fff; border-bottom:1px #888 dotted; padding:10px 0;	}
+#footer p			{ color:#fff; 	}
+#footer img		{ border-top:1px #888 solid; border-bottom:1px #888 solid;	}
+#footer li		{ color:#fff; 	}
+#footer a			{ color:#fff;	}
+
+#footer a:link		{ color:#fff;	}
+#footer a:visited	{ color:#fff;	}
+#footer a:active	{ color:#fff;	}
+#footer a:hover	{ color:#6F6FFF;	}
+#footer a:focus	{ color:#6F6FFF;	}
+
+#nav4 img			{ border:0; margin:2px 0; padding:2px 0;	}
+#nav4 li			{ display:inline; margin-left:12px;  }
+
+#bottom 			{ 	}
+#bottom-bg		{ background-color:#6F6FFF; border-top:1px #666 solid; border-bottom:10px #000 solid; }
+
+#bottom a, #bottom p 	{ 	}
+
+#bottom a:link			{ color:#000;	}
+#bottom a:visited		{ color:#000;	}
+#bottom a:active		{ color:#000;	}
+#bottom a:hover		{ color:#6F6FFF;	}
+#bottom a:focus		{ color:#6F6FFF;	}
+
+
+
+/* Forms */
+
+form ol 		{ 	}
+
+form 		{ 	}
+
+label 		{ background:none; }
+
+input 		{ border:1px #999 solid; background:none; }
+
+textarea 		{ border:1px #999 solid; background:none;  }
+	
+.submit		{ background-color:#E6CCCC; 	}
+		
+input:focus, 
+textarea:focus	{ background-color:#EBEBD6; }
+
+
+/* Miscellaneous  */
+
+.contact-button	{ background-color:#ccccff; }
+
+.copyright-text	{ color:#333; }
+.footer-text		{ color:#333; }
+
+.sliderImage span strong { 
+				color:#BBBBFF;  /* This is the color of the title text in the caption box */
+				font-size: 22px; /* This is the font size of the title text in the caption box */
+				line-height:300%;
+	}
+
+

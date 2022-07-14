@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html >
+   <head >
+      <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+      <meta name='viewport' content='width=device-width, initial-scale=1'>
+      <title >Form Page: RentalContractVer2</title>
+      <meta name='generator' content='Simfatic Forms 5.0.10.464'>
+      <script src='scripts/jquery-1.7.2.min.js' type='text/javascript'></script>
+      <script src='scripts/jquery-ui-1.8.18.custom.min.js' type='text/javascript'></script>
+      <script src='scripts/globalize.js' type='text/javascript'></script>
+      <script src='scripts/globalize.culture.en-CA.js' type='text/javascript'></script>
+      <script src='scripts/jquery-ui-1.8.21.custom.date.min.js' type='text/javascript'></script>
+      <script src='scripts/moment.js' type='text/javascript'></script>
+      <script src='scripts/sfm_calendar.js' type='text/javascript'></script>
+      <script src='scripts/jquery.sim.number.js' type='text/javascript'></script>
+      <script src='scripts/jquery.sim.FormCalc.js' type='text/javascript'></script>
+      <script src='scripts/jquery.sim.utils.js' type='text/javascript'></script>
+      <script src='scripts/sfm_validatorv7.js' type='text/javascript'></script>
+      <link rel='stylesheet' type='text/css' href='style/jquery-ui-1.8.16.css'>
+      <link rel='stylesheet' type='text/css' href='style/RentalContractVer2.css?r=%sfm_css_rand%'>
+   </head>
+   <body id='sfm_RentalContractVer2_body'>
+      <form id='RentalContractVer2' class='sfm_form' novalidate='novalidate' method='post' action='%sfm_self_script%' accept-charset='UTF-8'>
+         <div id='RentalContractVer2_errorloc' class='error_strings' style='text-align:left'>%sfm_error_display_loc%</div>
+         <div id='RentalContractVer2_outer_div_p1' class='form_outer_div'>
+            <div style='position:relative' id='RentalContractVer2_inner_div'>
+               <input type='hidden' name='sfm_form_submitted' value='yes'>
+               <input type='hidden' name='%_sfm_form_id_iput_var_%' value='%_sfm_form_id_iput_value_%'>
+               <input type='text' name='t90bdef1b1dc5de4cfe29' id='t90bdef1b1dc5de4cfe29'>
+               <div id='heading_container' class='form_subheading'>
+                  <h2 id='heading' class='form_subheading'>LOUNGE RENTAL CONTRACT</h2>
+               </div>
+               <fieldset id='box_element'>
+                  <legend id='box_element_title'>The Branch agrees to rent the Branch Facilities for a Private Function to:</legend>
+               </fieldset>
+               <div id='label_container' class='sfm_form_label'>
+                  <label id='label' for='Name'>Name:</label>
+               </div>
+               <div id='Name_container' class='sfm_element_container'>
+                  <input type='text' name='Name' id='Name' class='sfm_textbox_common sfm_textbox' size='20' value='%Name%' tabindex='1'>
+               </div>
+               <div id='label1_container' class='sfm_form_label'>
+                  <label id='label1' for='Address'>Address:</label>
+               </div>
+               <div id='Address_container' class='sfm_element_container'>
+                  <input type='text' name='Address' id='Address' class='sfm_textbox_common sfm_textbox' size='20' value='%Address%' tabindex='2'>
+               </div>
+               <div id='label2_container' class='sfm_form_label'>
+                  <label id='label2' for='Phone'>Telephone (s):</label>
+               </div>
+               <div id='Phone_container' class='sfm_element_container'>
+                  <input type='tel' name='Phone' id='Phone' class='sfm_textbox_common sfm_textbox' size='20' value='%Phone%' tabindex='3'>
+               </div>
+               <div id='label3_container' class='sfm_form_label'>
+                  <label id='label3' for='Email'>Email:</label>
+               </div>
+               <div id='Email_container' class='sfm_element_container'>
+                  <input type='email' name='Email' id='Email' class='sfm_textbox_common sfm_textbox' size='20' value='%Email%' tabindex='4'>
+               </div>
+               <div id='label4_container' class='sfm_form_label'>
+                  <label id='label4' for='DatePicker'>Date:</label>
+               </div>
+               <div class='sfm_element_container sfm_date_container' id='DatePicker_container'>
+                  <input type='text' name='DatePicker' id='DatePicker' class='sfm_datepicker_input' tabindex='5' value='%DatePicker%'>
+                  <input type='text' name='sfm_DatePicker_parsed' id='sfm_DatePicker_parsed' tabindex='-1' style='display:none'>
+                  <div id='DatePicker_image_container' class='sfm_datepicker_img_container'>
+                     <img id='DatePicker_image' class='sfm_datepicker_icon' src='images/date-picker.gif' width='20' height='20' alt='Click here to open the date picker'>
+                  </div>
+               </div>
+               <div id='label5_container' class='sfm_form_label'>
+                  <label id='label5' for='Event'>Event:</label>
+               </div>
+               <div id='Event_container' class='sfm_element_container'>
+                  <input type='text' name='Event' id='Event' class='sfm_textbox_common sfm_textbox' size='20' value='%Event%' tabindex='6'>
+               </div>
+               <div id='label6_container' class='sfm_form_label'>
+                  <label id='label6' for='StartTime'>Event Start Time:</label>
+               </div>
+               <div id='StartTime_container' class='sfm_element_container'>
+                  <input type='text' name='StartTime' id='StartTime' class='sfm_textbox_common sfm_textbox' size='20' value='%StartTime%' tabindex='7'>
+               </div>
+               <div id='label7_container' class='sfm_form_label'>
+                  <label id='label7' for='Duration'>Duration of Rental:</label>
+               </div>
+               <div id='Duration_container' class='sfm_element_container'>
+                  <input type='text' name='Duration' id='Duration' class='sfm_textbox_common sfm_textbox' size='20' value='%Duration%' tabindex='8'>
+               </div>
+               <div id='label8_container' class='sfm_form_label'>
+                  <label id='label8' for='Memb_Card_No'>Members Card Number:</label>
+               </div>
+               <div id='Memb_Card_No_container' class='sfm_element_container'>
+                  <input type='text' pattern='[0-9]*' inputmode='numeric' tabindex='9' name='Memb_Card_No' id='Memb_Card_No' value='%Memb_Card_No%'>
+                  <input type='text' name='sfm_Memb_Card_No_parsed' id='sfm_Memb_Card_No_parsed' tabindex='-1' style='display:none'>
+               </div>
+               <div id='label9_container' class='sfm_form_label'>
+                  <label id='label9' for='DropdownList'>Catagory of Membership:</label>
+               </div>
+               <div id='DropdownList_container' class='sfm_element_container'>
+                  <select name='DropdownList' id='DropdownList' size='1' tabindex='10'>
+                     <option value='Ordinary' %09a1ce51af05121ec4e44cc4700ba569%>Ordinary</option>
+                     <option value='Associate' %ae14b5dde341ffb729fe670d89a4f4c0%>Associate</option>
+                     <option value='Regular' %019ce346a96f7cc0b1fbe2286e156808%>Regular</option>
+                  </select>
+               </div>
+               <div id='label10_container' class='sfm_form_label'>
+                  <label id='label10' for='No_Guests'>Number of Guests (Max80):</label>
+               </div>
+               <div id='No_Guests_container' class='sfm_element_container'>
+                  <input type='text' pattern='[0-9]*' inputmode='numeric' tabindex='11' name='No_Guests' id='No_Guests' value='%No_Guests%'>
+                  <input type='text' name='sfm_No_Guests_parsed' id='sfm_No_Guests_parsed' tabindex='-1' style='display:none'>
+               </div>
+               <div id='heading1_container' class='form_subheading'>
+                  <h2 id='heading1' class='form_subheading'>Rental Fees (see due dates below)</h2>
+               </div>
+               <div id='Lounge_hrs_container' class='sfm_element_container'>
+                  <input type='number' tabindex='12' name='Lounge_hrs' id='Lounge_hrs' value='%Lounge_hrs%'>
+                  <input type='text' name='sfm_Lounge_hrs_parsed' id='sfm_Lounge_hrs_parsed' tabindex='-1' style='display:none'>
+               </div>
+               <div class='element_label sfm_element_container' id='CheckBoxSingle_container'><input type='checkbox' name='CheckBoxSingle' id='CheckBoxSingle' value='1' tabindex='13' %768c32ea39740a4c225761655f885dd9%><label for='CheckBoxSingle' class='element_label' id='CheckBoxSingle_label'></label></div>
+               <div class='element_label sfm_element_container' id='CheckBoxSingle1_container'><input type='checkbox' name='CheckBoxSingle1' id='CheckBoxSingle1' value='1' tabindex='14' %ebf9c6f8eb5d906cf1026934363ac3ed%><label for='CheckBoxSingle1' class='element_label' id='CheckBoxSingle1_label'></label></div>
+               <input type='hidden' name='Hidden7' id='Hidden7' value='%Hidden7%'>
+               <div id='Place_container' class='sfm_element_container'>
+                  <input type='text' pattern='[0-9]*' inputmode='numeric' tabindex='15' name='Place' id='Place' value='%Place%'>
+                  <input type='text' name='sfm_Place_parsed' id='sfm_Place_parsed' tabindex='-1' style='display:none'>
+               </div>
+               <div id='Cloths_container' class='sfm_element_container'>
+                  <input type='text' pattern='[0-9]*' inputmode='numeric' tabindex='16' name='Cloths' id='Cloths' value='%Cloths%'>
+                  <input type='text' name='sfm_Cloths_parsed' id='sfm_Cloths_parsed' tabindex='-1' style='display:none'>
+               </div>
+               <div id='Naps_container' class='sfm_element_container'>
+                  <input type='text' pattern='[0-9]*' inputmode='numeric' tabindex='17' name='Naps' id='Naps' value='%Naps%'>
+                  <input type='text' name='sfm_Naps_parsed' id='sfm_Naps_parsed' tabindex='-1' style='display:none'>
+               </div>
+               <div id='label22_container' class='sfm_form_label'>
+                  <label id='label22' for='SubTotal'>Sub Total</label>
+               </div>
+               <div class='sfm_element_container' id='SubTotal_container'>
+                  <input class='sfm_textbox_common sfm_calc_field' type='text' name='SubTotal' tabindex='18' value='%SubTotal%' id='SubTotal'>
+                  <input type='text' name='sfm_SubTotal_parsed' id='sfm_SubTotal_parsed' style='display:none'>
+               </div>
+               <input type='hidden' name='Hidden' id='Hidden' value='%Hidden%'>
+               <div id='label23_container' class='sfm_form_label'>
+                  <label id='label23' for='GST'>GST 5%</label>
+               </div>
+               <div class='sfm_element_container' id='GST_container'>
+                  <input class='sfm_textbox_common sfm_calc_field' type='text' name='GST' tabindex='19' value='%GST%' id='GST'>
+                  <input type='text' name='sfm_GST_parsed' id='sfm_GST_parsed' style='display:none'>
+               </div>
+               <input type='hidden' name='Hidden1' id='Hidden1' value='%Hidden1%'>
+               <div id='label24_container' class='sfm_form_label'>
+                  <label id='label24' for='Total'>Total</label>
+               </div>
+               <div class='sfm_element_container' id='Total_container'>
+                  <input class='sfm_textbox_common sfm_calc_field' type='text' name='Total' tabindex='20' value='%Total%' id='Total'>
+                  <input type='text' name='sfm_Total_parsed' id='sfm_Total_parsed' style='display:none'>
+               </div>
+               <input type='hidden' name='Hidden2' id='Hidden2' value='%Hidden2%'>
+               <div id='label25_container' class='sfm_form_label'>
+                  <label id='label25' for='DamageDep'>Damage Deposit</label>
+               </div>
+               <div class='sfm_element_container' id='DamageDep_container'>
+                  <input class='sfm_textbox_common sfm_calc_field' type='text' name='DamageDep' tabindex='21' value='%DamageDep%' id='DamageDep'>
+                  <input type='text' name='sfm_DamageDep_parsed' id='sfm_DamageDep_parsed' style='display:none'>
+               </div>
+               <div id='label26_container' class='sfm_form_label'>
+                  <label id='label26' for='TotalRentChg'>Total Rental Charges</label>
+               </div>
+               <div class='sfm_element_container' id='TotalRentChg_container'>
+                  <input class='sfm_textbox_common sfm_calc_field' type='text' name='TotalRentChg' tabindex='22' value='%TotalRentChg%' id='TotalRentChg'>
+                  <input type='text' name='sfm_TotalRentChg_parsed' id='sfm_TotalRentChg_parsed' style='display:none'>
+               </div>
+               <div id='Submit_container' class='loading_div sfm_element_container'>
+                  <input type='image' name='Submit' tabindex='23' id='RentalContractVer2_Submit_img' src='images/RentalContractVer1-Submit-0.png' alt='submit'>
+               </div>
+               <input type='hidden' name='Hidden3' id='Hidden3' value='%Hidden3%'>
+               <div id='label12_container' class='sfm_form_label'>
+                  <label id='label12' for='Lounge'>Lounge:</label>
+               </div>
+               <div id='label13_container' class='sfm_form_label'>
+                  <label id='label13' for='Lounge'>Hours @ $35/hour</label>
+               </div>
+               <div class='sfm_element_container' id='Lounge_container'>
+                  <input class='sfm_textbox_common sfm_calc_field' type='text' name='Lounge' tabindex='24' value='%Lounge%' id='Lounge'>
+                  <input type='text' name='sfm_Lounge_parsed' id='sfm_Lounge_parsed' style='display:none'>
+               </div>
+               <input type='hidden' name='Hidden4' id='Hidden4' value='%Hidden4%'>
+               <div id='label14_container' class='sfm_form_label'>
+                  <label id='label14' for='StoveOven'>Kitchen -- use stove and oven</label>
+               </div>
+               <div class='sfm_element_container' id='StoveOven_container'>
+                  <input class='sfm_textbox_common sfm_calc_field' type='text' name='StoveOven' tabindex='25' value='%StoveOven%' id='StoveOven'>
+                  <input type='text' name='sfm_StoveOven_parsed' id='sfm_StoveOven_parsed' style='display:none'>
+               </div>
+               <div id='label15_container' class='sfm_form_label'>
+                  <label id='label15' for='KeepWarm'>Kitchen -- keep prepared dishes warm</label>
+               </div>
+               <div class='sfm_element_container' id='KeepWarm_container'>
+                  <input class='sfm_textbox_common sfm_calc_field' type='text' name='KeepWarm' tabindex='26' value='%KeepWarm%' id='KeepWarm'>
+                  <input type='text' name='sfm_KeepWarm_parsed' id='sfm_KeepWarm_parsed' style='display:none'>
+               </div>
+               <input type='hidden' name='Hidden5' id='Hidden5' value='%Hidden5%'>
+               <div id='label17_container' class='sfm_form_label'>
+                  <label id='label17' for='PlaceSetting'>$1.00 / setting X</label>
+               </div>
+               <div id='label16_container' class='sfm_form_label'>
+                  <label id='label16' for='PlaceSetting'>Dishes Per Place Setting</label>
+               </div>
+               <div class='sfm_element_container' id='PlaceSetting_container'>
+                  <input class='sfm_textbox_common sfm_calc_field' type='text' name='PlaceSetting' tabindex='27' value='%PlaceSetting%' id='PlaceSetting'>
+                  <input type='text' name='sfm_PlaceSetting_parsed' id='sfm_PlaceSetting_parsed' style='display:none'>
+               </div>
+               <input type='hidden' name='Hidden6' id='Hidden6' value='%Hidden6%'>
+               <div id='label19_container' class='sfm_form_label'>
+                  <label id='label19' for='TableCloths'>$6.00 / cloth X</label>
+               </div>
+               <div id='label18_container' class='sfm_form_label'>
+                  <label id='label18' for='TableCloths'>Linen Table Cloths</label>
+               </div>
+               <div class='sfm_element_container' id='TableCloths_container'>
+                  <input class='sfm_textbox_common sfm_calc_field' type='text' name='TableCloths' tabindex='28' value='%TableCloths%' id='TableCloths'>
+                  <input type='text' name='sfm_TableCloths_parsed' id='sfm_TableCloths_parsed' style='display:none'>
+               </div>
+               <div id='label27_container'>
+                  <div id='label27'>A down payment of $200.00 is required to confirm the booking.<br><br>You may etransfer the downpayment to rcl277@shaw.ca or call the Lounge with your credit card info. 604 898-9368.</div>
+               </div>
+               <div id='label20_container' class='sfm_form_label'>
+                  <label id='label20' for='Napkins'>Linen Napkins</label>
+               </div>
+               <div id='label21_container' class='sfm_form_label'>
+                  <label id='label21' for='Napkins'>$0.50 / napkin X</label>
+               </div>
+               <div class='sfm_element_container' id='Napkins_container'>
+                  <input class='sfm_textbox_common sfm_calc_field' type='text' name='Napkins' tabindex='29' value='%Napkins%' id='Napkins'>
+                  <input type='text' name='sfm_Napkins_parsed' id='sfm_Napkins_parsed' style='display:none'>
+               </div>
+               <div id='label11_container'>
+                  <div id='label11'>All functions are run under the Royal Canadian Legions Liquor license, Therefore when using our facilities to hold your event we will provide the Bartender and Legion Bar Prices will apply.<br><br>A down payment of $200.00 is required to confirm the booking. At our discretion the deposit may be increased for outside catering operations or larger events. In the event of any damage the deposit will be retained in whole or in part .and the Renter will receive an explanation for such retention. Full payment is required at least fourteen (14) days prior to the function (i.e. Total Rental Charge less $200.00 down payment).<br></div>
+               </div>
+            </div>
+         </div>
+<div class='sfm_cr_box' style='padding:3px; width:350px;cursor:default'>This HTML form is proudly powered by <a style='text-decoration:none;' href='http://simfatic.com/form-software/'>Simfatic Forms</a> - custom contact form builder</div>
+      </form>
+      <script type='text/javascript'>
+$(function()
+{
+   new sfm_calendar({input_id:"DatePicker",image_id:"DatePicker_image",form_id:"RentalContractVer2",mirror:"sfm_DatePicker_parsed"})
+   new sfm_number_field('Memb_Card_No','RentalContractVer2',{mirror:'sfm_Memb_Card_No_parsed'});
+   new sfm_number_field('No_Guests','RentalContractVer2',{mirror:'sfm_No_Guests_parsed'});
+   new sfm_number_field('Lounge_hrs','RentalContractVer2',{mirror:'sfm_Lounge_hrs_parsed'});
+   new sfm_number_field('Place','RentalContractVer2',{mirror:'sfm_Place_parsed'});
+   new sfm_number_field('Cloths','RentalContractVer2',{mirror:'sfm_Cloths_parsed'});
+   new sfm_number_field('Naps','RentalContractVer2',{mirror:'sfm_Naps_parsed'});
+   $('form#RentalContractVer2 #SubTotal').formCalc(" Lounge + StoveOven + KeepWarm + PlaceSetting + TableCloths + Napkins",{ currency_format:true, mirror:'sfm_SubTotal_parsed'});
+   
+   $('form#RentalContractVer2 #GST').formCalc(" SubTotal * Hidden5",{ currency_format:true, mirror:'sfm_GST_parsed'});
+   
+   $('form#RentalContractVer2 #Total').formCalc(" SubTotal + GST",{ currency_format:true, mirror:'sfm_Total_parsed'});
+   
+   $('form#RentalContractVer2 #DamageDep').formCalc(" Hidden6",{ currency_format:true, mirror:'sfm_DamageDep_parsed'});
+   
+   $('form#RentalContractVer2 #TotalRentChg').formCalc(" Total + Hidden6",{ currency_format:true, mirror:'sfm_TotalRentChg_parsed'});
+   
+   sfm_show_loading_on_formsubmit('RentalContractVer2','RentalContractVer2_Submit_img');
+   $('form#RentalContractVer2 #Lounge').formCalc(" Lounge_hrs *Hidden7 ",{ currency_format:true, mirror:'sfm_Lounge_parsed'});
+   
+   $('form#RentalContractVer2 #StoveOven').formCalc(" CheckBoxSingle * Hidden",{ currency_format:true, mirror:'sfm_StoveOven_parsed'});
+   
+   $('form#RentalContractVer2 #KeepWarm').formCalc(" CheckBoxSingle1 * Hidden1",{ currency_format:true, mirror:'sfm_KeepWarm_parsed'});
+   
+   $('form#RentalContractVer2 #PlaceSetting').formCalc(" Place * Hidden2",{ currency_format:true, mirror:'sfm_PlaceSetting_parsed'});
+   
+   $('form#RentalContractVer2 #TableCloths').formCalc(" Cloths * Hidden3",{ currency_format:true, mirror:'sfm_TableCloths_parsed'});
+   
+   $('form#RentalContractVer2 #Napkins').formCalc(" Naps * Hidden4",{ currency_format:true, mirror:'sfm_Napkins_parsed'});
+});
+Globalize.culture('en-CA')
+      </script>
+      <script type='text/javascript'>
+var RentalContractVer2Validator = new Validator("RentalContractVer2");
+RentalContractVer2Validator.addValidation("Email",{email:true,message:"The input for  should be a valid email value"} );
+RentalContractVer2Validator.addValidation("Memb_Card_No",{numeric:true,message:"The input for  should be a valid numeric value"} );
+RentalContractVer2Validator.addValidation("No_Guests",{numeric:true,message:"The input for  should be a valid numeric value"} );
+RentalContractVer2Validator.addValidation("Lounge_hrs",{numeric:true,message:"The input for  should be a valid numeric value"} );
+RentalContractVer2Validator.addValidation("Place",{numeric:true,message:"The input for  should be a valid numeric value"} );
+RentalContractVer2Validator.addValidation("Cloths",{numeric:true,message:"The input for  should be a valid numeric value"} );
+RentalContractVer2Validator.addValidation("Naps",{numeric:true,message:"The input for  should be a valid numeric value"} );
+      </script>
+   </body>
+</html>

@@ -1,0 +1,1650 @@
+#RentalContractVer2 .sfm_textbox
+{
+    padding:1px;
+}
+#RentalContractVer2 .sfm_textarea
+{
+    padding:2px;
+    resize:none;
+}
+#RentalContractVer2 .error_strings
+{
+    font-family:Verdana;
+    font-size:12px;
+    color:#660000;
+}
+#RentalContractVer2 img
+{
+    border:0;
+}
+#RentalContractVer2 .loading_div
+{
+    background-color:transparent;
+    background-image:url("images/loading.gif");
+    background-position:center center;
+    background-repeat:no-repeat;
+}
+#RentalContractVer2 input[type='submit'],input[type='reset']
+{
+    font:inherit;
+    color:inherit;
+}
+#RentalContractVer2 .sfm_cr_box
+{
+    font-family:Verdana;
+    font-size:10px;
+    color:#888888;
+}
+#RentalContractVer2 .sfm_cr_box a
+{
+    color:#888888;
+}
+#RentalContractVer2 .sfm_slider
+{
+    margin:0;
+    display:inline-bock;
+}
+#RentalContractVer2 .slider_label
+{
+    padding-top:5px;
+    padding-left:3px;
+    overflow:visible;
+    display:inline-block;
+}
+#RentalContractVer2 .form_outer_div
+{
+    margin:0 auto;
+    border:none;
+    background-color:#ffffff;
+}
+#RentalContractVer2 .sfm_form_label
+{
+    background-color:transparent;
+}
+#RentalContractVer2 .element_label
+{
+    background-color:transparent;
+}
+body#sfm_RentalContractVer2_body
+{
+    background-color:transparent;
+    font-family:Arial;
+    font-size:12px;
+    color:#000000;
+    margin:0px;
+}
+#RentalContractVer2 .form_outer_div
+{
+    font-family:Arial;
+    font-size:12px;
+    color:#000000;
+}
+#RentalContractVer2 .form_subheading
+{
+    background-color:transparent;
+    margin:0;
+    padding:0;
+}
+#RentalContractVer2 .sfm_float_error_box
+{
+    font-family:Verdana;
+    font-size:12px;
+    color:#eeeeee;
+    background:none repeat scroll 0 0 #333333;
+    border:0;
+    border-radius:4px;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+    box-shadow:0 0 4px #333;
+    border:none;
+}
+#RentalContractVer2 .sfm_close_box
+{
+    font-family:Verdana;
+    font-size:12px;
+    color:#eeeeee;
+}
+#RentalContractVer2 .progress_box_container
+{
+    border:1px solid #8e8e8e;
+    background-color:#cccccc;
+    font-family:Arial;
+    font-size:10px;
+    color:#ffffff;
+    text-align:center;
+    vertical-align:middle;
+}
+#RentalContractVer2 .progress_box
+{
+    background-color:#333333;
+    width:2px;
+    float:left;
+    margin:2px;
+}
+#RentalContractVer2 .page_heading
+{
+    background-color:transparent;
+    margin:0;
+    padding:0;
+}
+#RentalContractVer2 .page_number
+{
+    background-color:transparent;
+}
+#RentalContractVer2 input[type='text'],input[type='password'],input[type='email'],input[type='tel'],input[type='number']
+{
+    background-color:#ffffff;
+    border:1px solid #888888;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    height:23px;
+    line-height:23px;
+}
+#RentalContractVer2 textarea
+{
+    background-color:#ffffff;
+    border:1px solid #888888;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+}
+
+
+#RentalContractVer2 #label
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label1
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label2
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label3
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label4
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label5
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label6
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label7
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label8
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label9
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label10
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label12
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label13
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label14
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label15
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label16
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label17
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label19
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label18
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label21
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label20
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label22
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label23
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label24
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label25
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+#RentalContractVer2 #label26
+{
+    font-family:Arial;
+    font-size:14px;
+    color:#000000;
+    font-weight:bold;
+}
+
+#RentalContractVer2 #t90bdef1b1dc5de4cfe29
+{
+    width:5px;
+    height:5px;
+    display:none;
+}
+#RentalContractVer2 #heading_container
+{
+    z-index:27;
+}
+#RentalContractVer2 #box_element
+{
+    z-index:2;
+    border:none;
+    background-color:transparent;
+    border-radius:0px;
+    -moz-border-radius:0px;
+    -webkit-border-radius:0px;
+}
+#RentalContractVer2 #box_element_title
+{
+    font-family:Arial;
+    font-size:14px;
+    font-weight:bold;
+    padding-left:4px;
+    padding-top:4px;
+}
+#RentalContractVer2 #label_container
+{
+    z-index:4;
+}
+#RentalContractVer2 #Textbox_container
+{
+    z-index:8;
+}
+#RentalContractVer2 #Textbox
+{
+    float:left;
+    z-index:8;
+}
+#RentalContractVer2 #label1_container
+{
+    z-index:5;
+}
+#RentalContractVer2 #Textbox1_container
+{
+    z-index:9;
+}
+#RentalContractVer2 #Textbox1
+{
+    float:left;
+    z-index:9;
+}
+#RentalContractVer2 #label2_container
+{
+    z-index:6;
+}
+#RentalContractVer2 #Phone_container
+{
+    z-index:10;
+}
+#RentalContractVer2 #Phone
+{
+    float:left;
+    z-index:10;
+}
+#RentalContractVer2 #label3_container
+{
+    z-index:7;
+}
+#RentalContractVer2 #Email_container
+{
+    z-index:11;
+}
+#RentalContractVer2 #Email
+{
+    float:left;
+    z-index:11;
+}
+#RentalContractVer2 #label4_container
+{
+    z-index:13;
+}
+#RentalContractVer2 #DatePicker_container
+{
+    z-index:12;
+}
+#RentalContractVer2 #DatePicker
+{
+    float:left;
+    z-index:12;
+    margin:0px;
+}
+#RentalContractVer2 #DatePicker_image_container
+{
+    float:left;
+    z-index:12;
+    height:100%;
+    position:relative;
+}
+#RentalContractVer2 #label5_container
+{
+    z-index:14;
+}
+#RentalContractVer2 #Textbox2_container
+{
+    z-index:15;
+}
+#RentalContractVer2 #Textbox2
+{
+    float:left;
+    z-index:15;
+}
+#RentalContractVer2 #label6_container
+{
+    z-index:16;
+}
+#RentalContractVer2 #Textbox3_container
+{
+    z-index:17;
+}
+#RentalContractVer2 #Textbox3
+{
+    float:left;
+    z-index:17;
+}
+#RentalContractVer2 #label7_container
+{
+    z-index:18;
+}
+#RentalContractVer2 #Textbox4_container
+{
+    z-index:19;
+}
+#RentalContractVer2 #Textbox4
+{
+    float:left;
+    z-index:19;
+}
+#RentalContractVer2 #label8_container
+{
+    z-index:20;
+}
+#RentalContractVer2 #NumberField_container
+{
+    z-index:21;
+}
+#RentalContractVer2 #NumberField
+{
+    float:left;
+    z-index:21;
+}
+#RentalContractVer2 #label9_container
+{
+    z-index:22;
+}
+#RentalContractVer2 #DropdownList_container
+{
+    z-index:23;
+}
+#RentalContractVer2 #DropdownList
+{
+    float:left;
+    z-index:23;
+}
+#RentalContractVer2 #label10_container
+{
+    z-index:24;
+}
+#RentalContractVer2 #NumberField1_container
+{
+    z-index:25;
+}
+#RentalContractVer2 #NumberField1
+{
+    float:left;
+    z-index:25;
+}
+#RentalContractVer2 #heading1_container
+{
+    z-index:26;
+}
+#RentalContractVer2 #label12_container
+{
+    z-index:29;
+}
+#RentalContractVer2 #NumberField2_container
+{
+    z-index:28;
+}
+#RentalContractVer2 #NumberField2
+{
+    float:left;
+    z-index:28;
+}
+#RentalContractVer2 #label13_container
+{
+    z-index:30;
+}
+#RentalContractVer2 #NumberField3_container
+{
+    z-index:31;
+}
+#RentalContractVer2 #NumberField3
+{
+    float:left;
+    z-index:31;
+}
+#RentalContractVer2 #CalculatedField_container
+{
+    z-index:32;
+}
+#RentalContractVer2 #CalculatedField
+{
+    float:left;
+    z-index:32;
+    text-align:right;
+}
+#RentalContractVer2 #CheckBoxSingle_container
+{
+    z-index:34;
+}
+#RentalContractVer2 #label14_container
+{
+    z-index:33;
+}
+#RentalContractVer2 #CalculatedField1_container
+{
+    z-index:36;
+}
+#RentalContractVer2 #CalculatedField1
+{
+    float:left;
+    z-index:36;
+    text-align:right;
+}
+#RentalContractVer2 #CheckBoxSingle1_container
+{
+    z-index:38;
+}
+#RentalContractVer2 #label15_container
+{
+    z-index:37;
+}
+#RentalContractVer2 #CalculatedField2_container
+{
+    z-index:40;
+}
+#RentalContractVer2 #CalculatedField2
+{
+    float:left;
+    z-index:40;
+    text-align:right;
+}
+#RentalContractVer2 #NumberField4_container
+{
+    z-index:42;
+}
+#RentalContractVer2 #NumberField4
+{
+    float:left;
+    z-index:42;
+}
+#RentalContractVer2 #label16_container
+{
+    z-index:41;
+}
+#RentalContractVer2 #label17_container
+{
+    z-index:45;
+}
+#RentalContractVer2 #CalculatedField3_container
+{
+    z-index:44;
+}
+#RentalContractVer2 #CalculatedField3
+{
+    float:left;
+    z-index:44;
+    text-align:right;
+}
+#RentalContractVer2 #NumberField5_container
+{
+    z-index:48;
+}
+#RentalContractVer2 #NumberField5
+{
+    float:left;
+    z-index:48;
+}
+#RentalContractVer2 #label19_container
+{
+    z-index:47;
+}
+#RentalContractVer2 #label18_container
+{
+    z-index:46;
+}
+#RentalContractVer2 #CalculatedField4_container
+{
+    z-index:50;
+}
+#RentalContractVer2 #CalculatedField4
+{
+    float:left;
+    z-index:50;
+    text-align:right;
+}
+#RentalContractVer2 #NumberField6_container
+{
+    z-index:53;
+}
+#RentalContractVer2 #NumberField6
+{
+    float:left;
+    z-index:53;
+}
+#RentalContractVer2 #label21_container
+{
+    z-index:52;
+}
+#RentalContractVer2 #label20_container
+{
+    z-index:51;
+}
+#RentalContractVer2 #CalculatedField5_container
+{
+    z-index:55;
+}
+#RentalContractVer2 #CalculatedField5
+{
+    float:left;
+    z-index:55;
+    text-align:right;
+}
+#RentalContractVer2 #label22_container
+{
+    z-index:56;
+}
+#RentalContractVer2 #CalculatedField6_container
+{
+    z-index:57;
+}
+#RentalContractVer2 #CalculatedField6
+{
+    float:left;
+    z-index:57;
+    text-align:right;
+}
+#RentalContractVer2 #label23_container
+{
+    z-index:58;
+}
+#RentalContractVer2 #CalculatedField7_container
+{
+    z-index:60;
+}
+#RentalContractVer2 #CalculatedField7
+{
+    float:left;
+    z-index:60;
+    text-align:right;
+}
+#RentalContractVer2 #label24_container
+{
+    z-index:61;
+}
+#RentalContractVer2 #CalculatedField8_container
+{
+    z-index:62;
+}
+#RentalContractVer2 #CalculatedField8
+{
+    float:left;
+    z-index:62;
+    text-align:right;
+}
+#RentalContractVer2 #label25_container
+{
+    z-index:63;
+}
+#RentalContractVer2 #label26_container
+{
+    z-index:66;
+}
+#RentalContractVer2 #CalculatedField9_container
+{
+    z-index:65;
+}
+#RentalContractVer2 #CalculatedField9
+{
+    float:left;
+    z-index:65;
+    text-align:right;
+}
+#RentalContractVer2 #CalculatedField10_container
+{
+    z-index:67;
+}
+#RentalContractVer2 #CalculatedField10
+{
+    float:left;
+    z-index:67;
+    text-align:right;
+}
+#RentalContractVer2 #label27_container
+{
+    z-index:3;
+}
+#RentalContractVer2 #label27
+{
+    text-align:left;
+    font-family:Arial;
+    font-size:11pt;
+    font-weight:bold;
+    color:#000000;
+}
+#RentalContractVer2 #label11_container
+{
+    z-index:1;
+}
+#RentalContractVer2 #label11
+{
+    text-align:left;
+    font-family:Arial;
+    font-size:9pt;
+    font-weight:bold;
+    color:#000000;
+}
+#RentalContractVer2 #Submit_container
+{
+    z-index:68;
+}
+#RentalContractVer2 #RentalContractVer2_Submit_img
+{
+    width:84px;
+    height:29px;
+    border:none;
+}
+
+#RentalContractVer2 #RentalContractVer2_outer_div_p1
+{
+    width:672px;
+    height:1200px;
+}
+#RentalContractVer2 #heading_container
+{
+    position:absolute;
+    left:0px;
+    top:16px;
+    width:656px;
+    height:24px;
+}
+#RentalContractVer2 #heading
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    width:100%;
+    text-align:center;
+}
+#RentalContractVer2 #box_element
+{
+    position:absolute;
+    left:24px;
+    top:50px;
+    width:616px;
+    height:24px;
+}
+#RentalContractVer2 #label_container
+{
+    position:absolute;
+    left:32px;
+    top:72px;
+}
+#RentalContractVer2 #label_container
+{
+    width:48px;
+    height:20px;
+}
+#RentalContractVer2 #label
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #Textbox_container
+{
+    position:absolute;
+    left:80px;
+    top:72px;
+}
+#RentalContractVer2 #Textbox
+{
+    width:562px;
+    height:19px;
+}
+#RentalContractVer2 #label1_container
+{
+    position:absolute;
+    left:32px;
+    top:112px;
+}
+#RentalContractVer2 #label1_container
+{
+    width:64px;
+    height:20px;
+}
+#RentalContractVer2 #label1
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #Textbox1_container
+{
+    position:absolute;
+    left:96px;
+    top:112px;
+}
+#RentalContractVer2 #Textbox1
+{
+    width:546px;
+    height:19px;
+}
+#RentalContractVer2 #label2_container
+{
+    position:absolute;
+    left:32px;
+    top:152px;
+}
+#RentalContractVer2 #label2_container
+{
+    width:96px;
+    height:20px;
+}
+#RentalContractVer2 #label2
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #Phone_container
+{
+    position:absolute;
+    left:136px;
+    top:152px;
+}
+#RentalContractVer2 #Phone
+{
+    width:202px;
+    height:19px;
+}
+#RentalContractVer2 #label3_container
+{
+    position:absolute;
+    left:352px;
+    top:152px;
+}
+#RentalContractVer2 #label3_container
+{
+    width:48px;
+    height:20px;
+}
+#RentalContractVer2 #label3
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #Email_container
+{
+    position:absolute;
+    left:400px;
+    top:152px;
+}
+#RentalContractVer2 #Email
+{
+    width:242px;
+    height:19px;
+}
+#RentalContractVer2 #label4_container
+{
+    position:absolute;
+    left:32px;
+    top:192px;
+}
+#RentalContractVer2 #label4_container
+{
+    width:40px;
+    height:20px;
+}
+#RentalContractVer2 #label4
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #DatePicker_container
+{
+    position:absolute;
+    left:72px;
+    top:192px;
+    width:153px;
+    height:25px;
+}
+#RentalContractVer2 #DatePicker
+{
+    width:116px;
+    height:19px;
+}
+#RentalContractVer2 #DatePicker_image_container
+{
+    width:20px;
+}
+#RentalContractVer2 #DatePicker_image
+{
+    position:absolute;
+    top:50%;
+    margin-top:-11px;
+    margin-left:1px;
+}
+#RentalContractVer2 #label5_container
+{
+    position:absolute;
+    left:240px;
+    top:192px;
+}
+#RentalContractVer2 #label5_container
+{
+    width:48px;
+    height:20px;
+}
+#RentalContractVer2 #label5
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #Textbox2_container
+{
+    position:absolute;
+    left:288px;
+    top:192px;
+}
+#RentalContractVer2 #Textbox2
+{
+    width:346px;
+    height:19px;
+}
+#RentalContractVer2 #label6_container
+{
+    position:absolute;
+    left:32px;
+    top:232px;
+}
+#RentalContractVer2 #label6_container
+{
+    width:120px;
+    height:20px;
+}
+#RentalContractVer2 #label6
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #Textbox3_container
+{
+    position:absolute;
+    left:160px;
+    top:232px;
+}
+#RentalContractVer2 #Textbox3
+{
+    width:58px;
+    height:19px;
+}
+#RentalContractVer2 #label7_container
+{
+    position:absolute;
+    left:240px;
+    top:232px;
+}
+#RentalContractVer2 #label7_container
+{
+    width:128px;
+    height:20px;
+}
+#RentalContractVer2 #label7
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #Textbox4_container
+{
+    position:absolute;
+    left:384px;
+    top:232px;
+}
+#RentalContractVer2 #Textbox4
+{
+    width:58px;
+    height:19px;
+}
+#RentalContractVer2 #label8_container
+{
+    position:absolute;
+    left:32px;
+    top:272px;
+}
+#RentalContractVer2 #label8_container
+{
+    width:160px;
+    height:20px;
+}
+#RentalContractVer2 #label8
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #NumberField_container
+{
+    position:absolute;
+    left:200px;
+    top:272px;
+}
+#RentalContractVer2 #NumberField
+{
+    width:82px;
+    height:19px;
+}
+#RentalContractVer2 #label9_container
+{
+    position:absolute;
+    left:304px;
+    top:272px;
+}
+#RentalContractVer2 #label9_container
+{
+    width:176px;
+    height:20px;
+}
+#RentalContractVer2 #label9
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #DropdownList_container
+{
+    position:absolute;
+    left:478px;
+    top:273px;
+}
+#RentalContractVer2 #DropdownList
+{
+    width:120px;
+    height:22px;
+}
+#RentalContractVer2 #label10_container
+{
+    position:absolute;
+    left:32px;
+    top:312px;
+}
+#RentalContractVer2 #label10_container
+{
+    width:184px;
+    height:20px;
+}
+#RentalContractVer2 #label10
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #NumberField1_container
+{
+    position:absolute;
+    left:232px;
+    top:312px;
+}
+#RentalContractVer2 #NumberField1
+{
+    width:18px;
+    height:19px;
+}
+#RentalContractVer2 #heading1_container
+{
+    position:absolute;
+    left:32px;
+    top:360px;
+    width:304px;
+    height:20px;
+}
+#RentalContractVer2 #heading1
+{
+    position:absolute;
+    top:0px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #label12_container
+{
+    position:absolute;
+    left:32px;
+    top:392px;
+}
+#RentalContractVer2 #label12_container
+{
+    width:56px;
+    height:20px;
+}
+#RentalContractVer2 #label12
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #NumberField2_container
+{
+    position:absolute;
+    left:96px;
+    top:392px;
+}
+#RentalContractVer2 #NumberField2
+{
+    width:26px;
+    height:19px;
+}
+#RentalContractVer2 #label13_container
+{
+    position:absolute;
+    left:136px;
+    top:392px;
+}
+#RentalContractVer2 #label13_container
+{
+    width:128px;
+    height:20px;
+}
+#RentalContractVer2 #label13
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #NumberField3_container
+{
+    position:absolute;
+    left:264px;
+    top:392px;
+}
+#RentalContractVer2 #NumberField3
+{
+    width:18px;
+    height:19px;
+}
+#RentalContractVer2 #CalculatedField_container
+{
+    position:absolute;
+    left:528px;
+    top:392px;
+}
+#RentalContractVer2 #CalculatedField
+{
+    width:114px;
+    height:19px;
+}
+#RentalContractVer2 #CheckBoxSingle_container
+{
+    position:absolute;
+    left:296px;
+    top:432px;
+    width:16px;
+    height:14px;
+}
+#RentalContractVer2 #label14_container
+{
+    position:absolute;
+    left:88px;
+    top:432px;
+}
+#RentalContractVer2 #label14_container
+{
+    width:200px;
+    height:20px;
+}
+#RentalContractVer2 #label14
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #CalculatedField1_container
+{
+    position:absolute;
+    left:528px;
+    top:432px;
+}
+#RentalContractVer2 #CalculatedField1
+{
+    width:114px;
+    height:19px;
+}
+#RentalContractVer2 #CheckBoxSingle1_container
+{
+    position:absolute;
+    left:352px;
+    top:472px;
+    width:16px;
+    height:14px;
+}
+#RentalContractVer2 #label15_container
+{
+    position:absolute;
+    left:88px;
+    top:472px;
+}
+#RentalContractVer2 #label15_container
+{
+    width:256px;
+    height:20px;
+}
+#RentalContractVer2 #label15
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #CalculatedField2_container
+{
+    position:absolute;
+    left:528px;
+    top:472px;
+}
+#RentalContractVer2 #CalculatedField2
+{
+    width:114px;
+    height:19px;
+}
+#RentalContractVer2 #NumberField4_container
+{
+    position:absolute;
+    left:424px;
+    top:512px;
+}
+#RentalContractVer2 #NumberField4
+{
+    width:18px;
+    height:19px;
+}
+#RentalContractVer2 #label16_container
+{
+    position:absolute;
+    left:88px;
+    top:512px;
+}
+#RentalContractVer2 #label16_container
+{
+    width:168px;
+    height:20px;
+}
+#RentalContractVer2 #label16
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #label17_container
+{
+    position:absolute;
+    left:304px;
+    top:512px;
+}
+#RentalContractVer2 #label17_container
+{
+    width:112px;
+    height:20px;
+}
+#RentalContractVer2 #label17
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #CalculatedField3_container
+{
+    position:absolute;
+    left:528px;
+    top:512px;
+}
+#RentalContractVer2 #CalculatedField3
+{
+    width:114px;
+    height:19px;
+}
+#RentalContractVer2 #NumberField5_container
+{
+    position:absolute;
+    left:424px;
+    top:552px;
+}
+#RentalContractVer2 #NumberField5
+{
+    width:18px;
+    height:19px;
+}
+#RentalContractVer2 #label19_container
+{
+    position:absolute;
+    left:317px;
+    top:550px;
+}
+#RentalContractVer2 #label19_container
+{
+    width:96px;
+    height:20px;
+}
+#RentalContractVer2 #label19
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #label18_container
+{
+    position:absolute;
+    left:88px;
+    top:552px;
+}
+#RentalContractVer2 #label18_container
+{
+    width:128px;
+    height:20px;
+}
+#RentalContractVer2 #label18
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #CalculatedField4_container
+{
+    position:absolute;
+    left:528px;
+    top:552px;
+}
+#RentalContractVer2 #CalculatedField4
+{
+    width:114px;
+    height:19px;
+}
+#RentalContractVer2 #NumberField6_container
+{
+    position:absolute;
+    left:424px;
+    top:592px;
+}
+#RentalContractVer2 #NumberField6
+{
+    width:18px;
+    height:19px;
+}
+#RentalContractVer2 #label21_container
+{
+    position:absolute;
+    left:304px;
+    top:592px;
+}
+#RentalContractVer2 #label21_container
+{
+    width:112px;
+    height:20px;
+}
+#RentalContractVer2 #label21
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #label20_container
+{
+    position:absolute;
+    left:88px;
+    top:592px;
+}
+#RentalContractVer2 #label20_container
+{
+    width:96px;
+    height:20px;
+}
+#RentalContractVer2 #label20
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #CalculatedField5_container
+{
+    position:absolute;
+    left:528px;
+    top:592px;
+}
+#RentalContractVer2 #CalculatedField5
+{
+    width:114px;
+    height:19px;
+}
+#RentalContractVer2 #label22_container
+{
+    position:absolute;
+    left:424px;
+    top:632px;
+}
+#RentalContractVer2 #label22_container
+{
+    width:66px;
+    height:20px;
+}
+#RentalContractVer2 #label22
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #CalculatedField6_container
+{
+    position:absolute;
+    left:528px;
+    top:632px;
+}
+#RentalContractVer2 #CalculatedField6
+{
+    width:114px;
+    height:19px;
+}
+#RentalContractVer2 #label23_container
+{
+    position:absolute;
+    left:432px;
+    top:672px;
+}
+#RentalContractVer2 #label23_container
+{
+    width:56px;
+    height:20px;
+}
+#RentalContractVer2 #label23
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #CalculatedField7_container
+{
+    position:absolute;
+    left:528px;
+    top:672px;
+}
+#RentalContractVer2 #CalculatedField7
+{
+    width:114px;
+    height:19px;
+}
+#RentalContractVer2 #label24_container
+{
+    position:absolute;
+    left:456px;
+    top:712px;
+}
+#RentalContractVer2 #label24_container
+{
+    width:40px;
+    height:20px;
+}
+#RentalContractVer2 #label24
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #CalculatedField8_container
+{
+    position:absolute;
+    left:528px;
+    top:712px;
+}
+#RentalContractVer2 #CalculatedField8
+{
+    width:114px;
+    height:19px;
+}
+#RentalContractVer2 #label25_container
+{
+    position:absolute;
+    left:88px;
+    top:752px;
+}
+#RentalContractVer2 #label25_container
+{
+    width:112px;
+    height:20px;
+}
+#RentalContractVer2 #label25
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #label26_container
+{
+    position:absolute;
+    left:352px;
+    top:792px;
+}
+#RentalContractVer2 #label26_container
+{
+    width:136px;
+    height:20px;
+}
+#RentalContractVer2 #label26
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#RentalContractVer2 #CalculatedField9_container
+{
+    position:absolute;
+    left:528px;
+    top:752px;
+}
+#RentalContractVer2 #CalculatedField9
+{
+    width:114px;
+    height:19px;
+}
+#RentalContractVer2 #CalculatedField10_container
+{
+    position:absolute;
+    left:528px;
+    top:792px;
+}
+#RentalContractVer2 #CalculatedField10
+{
+    width:114px;
+    height:19px;
+}
+#RentalContractVer2 #label27_container
+{
+    position:absolute;
+    left:24px;
+    top:832px;
+    width:624px;
+    height:80px;
+}
+#RentalContractVer2 #label27
+{
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+#RentalContractVer2 #label11_container
+{
+    position:absolute;
+    left:24px;
+    top:928px;
+    width:624px;
+    height:120px;
+}
+#RentalContractVer2 #label11
+{
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+#RentalContractVer2 #Submit_container
+{
+    position:absolute;
+    left:560px;
+    top:1064px;
+    width:80px;
+    height:25px;
+}
